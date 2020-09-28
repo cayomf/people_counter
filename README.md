@@ -1,16 +1,37 @@
-# contador_de_pessoas
 
-A new Flutter project.
+<h1 align="center">
+<br>
+  <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" alt="Flutter Logo" width="120">
+<br>
+<br>
+People Counter
+</h1>
 
-## Getting Started
+<p align="center">A simple people counter app built with Flutter</p>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<hr />
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+[//]: # (Add the features of your project here:)
+This app features all the latest tools and practices in mobile development!
+
+- **Flutter** — A Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Dart** — A client-optimized language for fast apps on any platform
+
+## Getting started
+
+For more Information, enter in this link below:
+<br>
+https://flutter.dev/docs/get-started/install
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
