@@ -31,6 +31,10 @@ For more Information, enter in this link below:
 <br>
 https://flutter.dev/docs/get-started/install
 
+In case of multiple errors after openning the project, run:
+<br>
+``` flutter pub get```
+
 
 ## License
 
